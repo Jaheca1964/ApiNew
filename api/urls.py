@@ -1,4 +1,5 @@
-from django.urls import path# se imñoprta
+"""se importa de django urls"""
+from django.urls import path
 from . import views
 
 urlpatterns = [
