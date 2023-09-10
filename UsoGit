@@ -1,0 +1,5 @@
+Comandos para recordar
+Git branch para crear rama"
+git branch checkout "rama", para cambiar a la rama creada
+git fetch para ver los cambios realizados en la rama antes del commit
+git push origin "rama envida" para actualizar repositorio
